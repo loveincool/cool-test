@@ -6,7 +6,7 @@
       <p><b>SIT内网环境</b></p>
     </td>
     <td width="60">
-      <a href="http://www.w3school.com.cn">W3School1</a>
+      <a href="https://www.pgyer.com/0447198543fb2b53c334b069f3cec6e8">手机银行SIT内网</a>
     </td>
   </tr>
   <tr>
