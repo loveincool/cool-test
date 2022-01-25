@@ -34,7 +34,7 @@
       <p><b>SIT内网环境</b></p>
     </td>
     <td width="60">
-      <a href="http://www.w3school.com.cn">直销银行SIT内网</a>
+      <a href="https://www.pgyer.com/OWiu">直销银行SIT内网</a>
     </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@
       <p><b>DEV内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/OWiu">直销银行Dev内网</a>
+      <a href="https://www.pgyer.com/af6b79caa75fa267ef7a76579e5d6b28">直销银行Dev内网</a>
     </td>
   </tr>
 </table>
