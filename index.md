@@ -34,7 +34,7 @@
       <p><b>SIT内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/OWiu">直销银行SIT内网</a>
+      <a href="https://www.pgyer.com/e49e71fa185bff3ec2b5296e90dfaf88">直销银行SIT内网</a>
     </td>
   </tr>
   <tr>
