@@ -6,7 +6,7 @@
       <p><b>SIT内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/0447198543fb2b53c334b069f3cec6e8">手机银行SIT内网</a>
+      <a href="https://www.pgyer.com/f314c182f01515792296cf00fa2368a2">手机银行SIT内网</a>
     </td>
   </tr>
   <tr>
