@@ -9,6 +9,14 @@
       <a href="https://www.pgyer.com/f314c182f01515792296cf00fa2368a2">手机银行SIT内网</a>
     </td>
   </tr>
+   <tr>
+    <td width="40%">
+      <p><b>SIT外网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/23726e0edf16871dff8fc0bda99a57cc">手机银行SIT外网</a>
+    </td>
+  </tr> 
   <tr>
     <td width="40%">
       <p><b>DEV内网环境</b></p>
