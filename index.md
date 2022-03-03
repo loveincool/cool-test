@@ -63,6 +63,14 @@
   </tr>
   <tr>
     <td width="40%">
+      <p><b>SIT顺批外网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/999b015cae238b27bffa6b3729ffa2da">直销银行SIT顺批外网</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
       <p><b>DEV内网环境</b></p>
     </td>
     <td width="60">
