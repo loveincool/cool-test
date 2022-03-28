@@ -1,6 +1,39 @@
 ## 新核心安卓DEV和SIT测试包
 # 手机银行
 <table border="1">
+    <tr>
+    <td width="40%">
+      <p><b>SIT长周期2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/a28a7675cfec22abbdc01dceadbf92f2">手机银行SIT长周期2轮内网</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <p><b>SIT长周期2轮外网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/f71dbe3e9f439089ff9f3b2de243edc4">手机银行SIT长周期2轮外网</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <p><b>SIT顺批2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/8a9c38d2dc6c4be20779ffa11b95530c">手机银行SIT顺批2轮内网</a>
+    </td>
+  </tr>
+   <tr>
+    <td width="40%">
+      <p><b>SIT顺批2轮外网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/d35bfb66e2743c08d07d860e23c077fc">手机银行SIT顺批2轮外网</a>
+    </td>
+  </tr> 
+  
   <tr>
     <td width="40%">
       <p><b>SIT长周期内网环境</b></p>
@@ -53,6 +86,22 @@
 
 # 直销银行
 <table border="1">
+    <tr>
+    <td width="40%">
+      <p><b>SIT长周期2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/8ee1f43d5206b756a5d9b188a2353441">直销银行SIT长周期2轮内网</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <p><b>SIT顺批2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/a07656331a6c32fda2b680fcb2a031e1">直销银行SIT顺批2轮内网</a>
+    </td>
+  </tr>
   <tr>
     <td width="40%">
       <p><b>SIT长周期内网环境</b></p>
@@ -89,6 +138,24 @@
 
 # 企业手机银行
 <table border="1">
+    <tr>
+    <td width="40%">
+      <p><b>SIT长周期2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/96c68f83ff444ca8487b3a046158fed9">企业手机银行SIT长周期2轮内网</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="40%">
+      <p><b>SIT顺批2轮内网环境</b></p>
+    </td>
+    <td width="60">
+      <a href="https://www.pgyer.com/0a12bd10cabb5dc1d379b26b44f0281b">企业手机银行SIT顺批2轮内网</a>
+    </td>
+  </tr>
+  
   <tr>
     <td width="40%">
       <p><b>SIT长周期内网环境</b></p>
