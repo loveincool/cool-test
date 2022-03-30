@@ -86,14 +86,7 @@
 
 # 直销银行
 <table border="1">
-   <tr>
-    <td width="40%">
-      <p><b>SIT长周期2轮外网环境</b></p>
-    </td>
-    <td width="60">
-      <a href="https://www.pgyer.com/0eb8aa603b6a5161b856d3c6c7f72db8">直销银行SIT长周期2轮外网</a>
-    </td>
-  </tr>
+
     
     <tr>
     <td width="40%">
