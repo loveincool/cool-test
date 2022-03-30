@@ -86,7 +86,6 @@
 
 # 直销银行
 <table border="1">
-    
    <tr>
     <td width="40%">
       <p><b>SIT长周期2轮外网环境</b></p>
