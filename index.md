@@ -95,7 +95,7 @@
     </td>
    </tr>
     
-    <tr>
+  <tr>
     <td width="40%">
       <p><b>SIT长周期2轮内网环境</b></p>
     </td>
@@ -109,7 +109,7 @@
       <p><b>SIT顺批2轮外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/51714940ff3687c24f2cda6a425f96ec">直销银行SIT顺批2外网</a>
+      <a href="https://www.pgyer.com/51714940ff3687c24f2cda6a425f96ec">直销银行SIT顺批2轮外网</a>
     </td>
   </tr>
   <tr>
