@@ -1,6 +1,7 @@
 ## 新核心安卓DEV和SIT测试包
 # 手机银行
-<table border="1">
+# 下载已经关闭，请联系开发安装
+<!-- <table border="1">
     <tr>
     <td width="40%">
       <p><b>SIT长周期2轮内网环境</b></p>
@@ -203,3 +204,4 @@
     </td>
   </tr>
 </table>
+ -->
