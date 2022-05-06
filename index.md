@@ -2,7 +2,7 @@
 # 手机银行 -->
 <!-- # 下载已经关闭，请联系开发安装 -->
 <table border="1">
-    <tr>
+<!--     <tr>
     <td width="40%">
       <p><b>SIT长周期2轮内网环境</b></p>
     </td>
@@ -155,7 +155,7 @@
       <a href="https://www.pgyer.com/af6b79caa75fa267ef7a76579e5d6b28">直销银行Dev内网</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 # 企业手机银行
 <table border="1">
