@@ -78,14 +78,6 @@
 
 # 企业手机银行
 <table border="1">
-    <tr>
-    <td width="40%">
-      <p><b>SIT长周期2轮内网环境</b></p>
-    </td>
-    <td width="60">
-      <a href="https://www.pgyer.com/96c68f83ff444ca8487b3a046158fed9">企业手机银行SIT长周期2轮内网</a>
-    </td>
-  </tr>
   
   <tr>
     <td width="40%">
