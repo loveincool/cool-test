@@ -44,7 +44,7 @@
       <p><b>UAT长周期外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/b56a3f7aea0e274af0f56804f3e8a0a7">直销银行UAT长周期外网</a>
+      <a href="https://www.pgyer.com/1530408deb50dadb7b6b66453e46d116">直销银行UAT长周期外网</a>
     </td>
    </tr>
     
@@ -53,7 +53,7 @@
       <p><b>UAT长周期内网</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/ec8d00ec9ea71599b0182dc75b7bc3f1">直销银行UAT长周期内网</a>
+      <a href="https://www.pgyer.com/179508eb62a209e4309bcd9cab054d9d">直销银行UAT长周期内网</a>
     </td>
   </tr>
       
@@ -62,7 +62,7 @@
       <p><b>UAT顺批外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/d3eb41ee5852da9fafb534993a5cb472">直销银行UAT顺批外网</a>
+      <a href="https://www.pgyer.com/cd73b699cad413553847aca75962da75">直销银行UAT顺批外网</a>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
       <p><b>UAT顺批内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/1452b1977933b519907d2c1d2f47afdd">直销银行UAT顺批内网</a>
+      <a href="https://www.pgyer.com/a34664fd398bf4f9618c8c494d9376d0">直销银行UAT顺批内网</a>
     </td>
   </tr>
 
