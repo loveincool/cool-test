@@ -1,6 +1,5 @@
-<!-- ## 新核心安卓DEV和SIT测试包-->
+<!-- ## 新核心安卓测试包-->
 # 手机银行 
-<!-- # 下载已经关闭，请联系开发安装 -->
 <table border="1">
    <tr>
     <td width="40%">
@@ -26,7 +25,7 @@
       <a href="https://www.pgyer.com/2ae5bbf2ac55aaa3415ec41d3f7cad6d">手机银行UAT顺批内网</a>
     </td>
   </tr>
-   <tr>
+  <tr>
     <td width="40%">
       <p><b>UAT顺批外网环境</b></p>
     </td>
@@ -65,7 +64,6 @@
       <a href="https://www.pgyer.com/cd73b699cad413553847aca75962da75">直销银行UAT顺批外网</a>
     </td>
   </tr>
-  <tr>
       
   <tr>
     <td width="40%">
