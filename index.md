@@ -4,34 +4,34 @@
  <table border="1">
    <tr>
     <td width="40%">
-      <p><b>UAT长周期内网环境</b></p>
+      <p><b>UAT2长周期内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/d0c5428547a285693f13e2022c8a5853">手机银行UAT长周期内网</a>
+      <a href="https://www.pgyer.com/b821e1a00a3ff239d7b639703742b04c">手机银行UAT2长周期内网</a>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <p><b>UAT长周期外网环境</b></p>
+      <p><b>UAT2长周期外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/9bc4f4aabb9055b4ce1a1e2b5c8d23c7">手机银行UAT长周期外网</a>
+      <a href="https://www.pgyer.com/ce408aea995fe6875d488da070a27161">手机银行UAT2长周期外网</a>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <p><b>UAT顺批内网环境</b></p>
+      <p><b>UAT2顺批内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/2ae5bbf2ac55aaa3415ec41d3f7cad6d">手机银行UAT顺批内网</a>
+      <a href="https://www.pgyer.com/8f5236013b678cce22d30e209bded4bd">手机银行UAT2顺批内网</a>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <p><b>UAT顺批外网环境</b></p>
+      <p><b>UAT2顺批外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/77f65ac1376ce92fe4e10a0561964c80">手机银行UAT顺批外网</a>
+      <a href="https://www.pgyer.com/7082710fa2facf69eeba41f8a192d8a8">手机银行UAT2顺批外网</a>
     </td>
   </tr> 
  
@@ -41,37 +41,37 @@
 <table border="1">
    <tr>
     <td width="40%">
-      <p><b>UAT长周期外网环境</b></p>
+      <p><b>UAT2长周期外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/b575f410e39996bfebef8d783db8c46f">直销银行UAT长周期外网</a>
+      <a href="https://www.pgyer.com/136383af07626901ea69046555dc69ad">直销银行UAT2长周期外网</a>
     </td>
    </tr>
     
   <tr>
     <td width="40%">
-      <p><b>UAT长周期内网</b></p>
+      <p><b>UAT2长周期内网</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/32e9b95674b9148903da23b434a8e529">直销银行UAT长周期内网</a>
+      <a href="https://www.pgyer.com/d77550c540d6efc2c7c81416e464f204">直销银行UAT2长周期内网</a>
     </td>
   </tr>
       
   <tr>
     <td width="40%">
-      <p><b>UAT顺批外网环境</b></p>
+      <p><b>UAT2顺批外网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/685ab7d05e44837581204e56db868fcf">直销银行UAT顺批外网</a>
+      <a href="https://www.pgyer.com/ebe71d58e40ea4a32d7e49f1bbc98919">直销银行UAT2顺批外网</a>
     </td>
   </tr>
       
   <tr>
     <td width="40%">
-      <p><b>UAT顺批内网环境</b></p>
+      <p><b>UAT2顺批内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/c1d6ccee96f4b731d364048d82b9d3a0">直销银行UAT顺批内网</a>
+      <a href="https://www.pgyer.com/5ef48327b68bec7b53e0242cc054eb8b">直销银行UAT2顺批内网</a>
     </td>
   </tr>
 
@@ -82,19 +82,19 @@
   
   <tr>
     <td width="40%">
-      <p><b>UAT顺批内网环境</b></p>
+      <p><b>UAT2顺批内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/0a12bd10cabb5dc1d379b26b44f0281b">企业手机银行UAT顺批内网</a>
+      <a href="https://www.pgyer.com/0fe9f853dc8888a5415bbf3767184020">企业手机银行UAT2顺批内网</a>
     </td>
   </tr>
   
   <tr>
     <td width="40%">
-      <p><b>UAT长周期内网环境</b></p>
+      <p><b>UAT2长周期内网环境</b></p>
     </td>
     <td width="60">
-      <a href="https://www.pgyer.com/96c68f83ff444ca8487b3a046158fed9">企业手机银行UAT长周期内网</a>
+      <a href="https://www.pgyer.com/8635e5d4d0496b32016645d1f4797b3b">企业手机银行UAT2长周期内网</a>
     </td>
   </tr>
  
